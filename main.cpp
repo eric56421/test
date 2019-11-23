@@ -10,5 +10,6 @@ int main(int argc, char *argv[])
     MainWindow w;
     w.show();
     cout<<"test";
+    cout<<"test2";
     return a.exec();
 }
