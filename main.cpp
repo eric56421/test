@@ -11,5 +11,7 @@ int main(int argc, char *argv[])
     w.show();
     cout<<"test";
     cout<<"Tired";
+    cout<<"test2";
+
     return a.exec();
 }
