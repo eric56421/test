@@ -10,6 +10,7 @@ int main(int argc, char *argv[])
     MainWindow w;
     w.show();
     cout<<"test";
+
     cout<<"Tired";
     cout<<"test2";
 
