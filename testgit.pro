@@ -20,7 +20,7 @@ SOURCES += \
     mainwindow.cpp
 
 HEADERS += \
-    jij.h \
+    hihihi.h \
     mainwindow.h
 
 FORMS += \
