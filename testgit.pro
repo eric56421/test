@@ -20,6 +20,7 @@ SOURCES += \
     mainwindow.cpp
 
 HEADERS += \
+    jij.h \
     mainwindow.h
 
 FORMS += \
